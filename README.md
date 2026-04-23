@@ -100,5 +100,3 @@ An interactive Power BI dashboard was created to visualize:
 
 This project demonstrates an end-to-end data analysis workflow, from data cleaning and transformation to visualization and business insights generation.
 
-
-**Your Name**
